@@ -22,7 +22,7 @@ OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 # BASE_DIR - корневая директория проекта
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 # KB_DIR - путь к базе знаний Trafory
-KB_DIR = os.path.join(os.path.dirname(BASE_DIR), "Trafory", "База знаний платформы Trafory")
+KB_DIR = os.path.join(BASE_DIR, "knowledge_base", "База знаний платформы Trafory")
 # FAISS_INDEX_DIR - директория для хранения индекса FAISS
 FAISS_INDEX_DIR = os.path.join(BASE_DIR, "data", "faiss_index")
 # FAISS_INDEX_PATH - путь к бинарному файлу индекса FAISS
