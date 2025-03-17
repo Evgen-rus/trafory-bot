@@ -1,0 +1,6 @@
+aiogram==3.18.0
+openai==1.66.3
+python-dotenv==1.0.0
+numpy==1.26.1
+faiss-cpu==1.7.4
+python-markdown==3.5.2 
