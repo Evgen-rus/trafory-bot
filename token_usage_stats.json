@@ -1,12 +1,12 @@
 {
-  "timestamp": "2025-03-17T12:33:24.076316",
+  "timestamp": "2025-03-18T20:30:11.078758",
   "completion": {
-    "prompt_tokens": 0,
-    "completion_tokens": 0,
-    "total_tokens": 0
+    "prompt_tokens": 21854,
+    "completion_tokens": 4594,
+    "total_tokens": 26448
   },
   "embedding": {
-    "total_tokens": 0
+    "total_tokens": 347
   },
-  "grand_total": 0
+  "grand_total": 26795
 }
