@@ -2,8 +2,4 @@ aiogram==3.18.0
 openai==1.66.3
 python-dotenv==1.0.0
 numpy==1.26.1
-<<<<<<< HEAD
 faiss-cpu==1.7.4
-=======
-faiss-cpu==1.7.4
->>>>>>> 1735283f931b295e8d54657da96813fd67117eab
